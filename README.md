@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TamuYuv
-- 👀 I’m interested in Automation of Regular Tasks
+- 👀 I’m interested in Task Automation
 - 🌱 I’m currently learning Python, Powershell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
